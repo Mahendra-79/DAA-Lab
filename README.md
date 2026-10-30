@@ -2,8 +2,8 @@
 
 ## Design and Analysis of Algorithms Lab
 
-**Name:** Davu Durga Rao
-**ID:** O230829
+**Name:** Banavathu Mahendra naik
+**ID:** O230236
 **Branch/Section:** AI&ML sec-A 
 **Course:** Design and Analysis of Algorithms Lab  
 **Academic Year:** 2026–27  
